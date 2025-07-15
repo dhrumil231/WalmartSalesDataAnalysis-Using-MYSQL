@@ -1,3 +1,4 @@
+![Walmart Sales Data Analysis Logo](https://github.com/dhrumil231/WalmartSalesDataAnalysis-Using-MYSQL/blob/main/Walmart_Sales_Data_Logo.png)
 🛒 Walmart Sales Data Analysis using MySQL
 📌 Project Overview
 This project is an end-to-end Sales Data Analysis performed on Walmart transactional data using MySQL as the querying and transformation engine and a CSV file as the data source. The goal is to uncover valuable business insights from raw data by answering strategic questions across different dimensions such as products, sales, customers, and operational performance.
